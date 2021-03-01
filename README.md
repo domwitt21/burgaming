@@ -1,2 +1,2 @@
-# burgaming
-BUR Gaming Team's Official Website
+# BurGaming
+BUR Gaming Team's Official Website.
